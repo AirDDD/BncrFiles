@@ -1,6 +1,6 @@
 /**
  * @author Air
- * @team 阳光
+ * @team Air
  * @name 黑丝
  * @version 1.0.0
  * @description 发送“黑丝”后自动获取视频
