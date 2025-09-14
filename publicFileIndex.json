@@ -1,0 +1,51 @@
+{
+  "annotation0": "该文件由系统自动生成.",
+  "annotation1": "当config.json中pluginsPublishingMode===\"git\"时且有public插件时生成",
+  "annotation2": "该文件用于插件市场索引,当更新插件至git时,请将该文件同步更新至git",
+  "f3w/+5Hp9CMlUpkMKWAzIXRP3LU=": {
+    "type": "github",
+    "name": "定时伪装消息",
+    "author": "Air",
+    "team": "阳光",
+    "version": "2.1.0",
+    "description": "多平台定时伪装消息，支持多任务管理和定时发送",
+    "classification": [
+      "工具",
+      "定时",
+      "消息"
+    ],
+    "filename": "定时伪装消息.js",
+    "fileDir": "/plugins/Air/定时伪装消息.js",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": false,
+    "isMod": false,
+    "isService": false,
+    "id": "f3w/+5Hp9CMlUpkMKWAzIXRP3LU=",
+    "isChatPlugin": true
+  },
+  "0IQm4++lTdx9lti4PRZSMiu1Ygg=": {
+    "type": "github",
+    "name": "黑丝",
+    "author": "Air",
+    "team": "阳光",
+    "version": "1.0.0",
+    "description": "发送“黑丝”后自动获取视频",
+    "classification": [
+      "视频"
+    ],
+    "filename": "黑丝.js",
+    "fileDir": "/plugins/Air/黑丝.js",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": false,
+    "isMod": false,
+    "isService": false,
+    "id": "0IQm4++lTdx9lti4PRZSMiu1Ygg=",
+    "isChatPlugin": true
+  }
+}
