@@ -2,11 +2,11 @@
   "annotation0": "该文件由系统自动生成.",
   "annotation1": "当config.json中pluginsPublishingMode===\"git\"时且有public插件时生成",
   "annotation2": "该文件用于插件市场索引,当更新插件至git时,请将该文件同步更新至git",
-  "f3w/+5Hp9CMlUpkMKWAzIXRP3LU=": {
+  "Pzl+PBRwKpEgAPCU6c772vz7Y40=": {
     "type": "github",
     "name": "定时伪装消息",
     "author": "Air",
-    "team": "阳光",
+    "team": "Air",
     "version": "2.1.0",
     "description": "多平台定时伪装消息，支持多任务管理和定时发送",
     "classification": [
@@ -23,14 +23,14 @@
     "isEncPlugin": false,
     "isMod": false,
     "isService": false,
-    "id": "f3w/+5Hp9CMlUpkMKWAzIXRP3LU=",
+    "id": "Pzl+PBRwKpEgAPCU6c772vz7Y40=",
     "isChatPlugin": true
   },
-  "0IQm4++lTdx9lti4PRZSMiu1Ygg=": {
+  "FRsFeoW1tLwIkqCwk2As2ifmhKQ=": {
     "type": "github",
     "name": "黑丝",
     "author": "Air",
-    "team": "阳光",
+    "team": "Air",
     "version": "1.0.0",
     "description": "发送“黑丝”后自动获取视频",
     "classification": [
@@ -45,7 +45,7 @@
     "isEncPlugin": false,
     "isMod": false,
     "isService": false,
-    "id": "0IQm4++lTdx9lti4PRZSMiu1Ygg=",
+    "id": "FRsFeoW1tLwIkqCwk2As2ifmhKQ=",
     "isChatPlugin": true
   }
 }
