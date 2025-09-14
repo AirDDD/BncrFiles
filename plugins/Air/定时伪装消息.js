@@ -1,6 +1,6 @@
 /**
  * @author Air
- * @team 阳光
+ * @team Air
  * @name 定时伪装消息
  * @version 2.1.0
  * @description 多平台定时伪装消息，支持多任务管理和定时发送
