@@ -7,12 +7,10 @@
     "name": "定时伪装消息",
     "author": "Air",
     "team": "Air",
-    "version": "2.1.0",
+    "version": "1.0.0",
     "description": "多平台定时伪装消息，支持多任务管理和定时发送",
     "classification": [
-      "工具",
-      "定时",
-      "消息"
+      "Air"
     ],
     "filename": "定时伪装消息.js",
     "fileDir": "/plugins/Air/定时伪装消息.js",
@@ -20,7 +18,7 @@
     "isAdapter": false,
     "isCron": false,
     "isAuthentication": false,
-    "isEncPlugin": false,
+    "isEncPlugin": true,
     "isMod": false,
     "isService": false,
     "id": "Pzl+PBRwKpEgAPCU6c772vz7Y40=",
@@ -34,7 +32,7 @@
     "version": "1.0.0",
     "description": "发送“黑丝”后自动获取视频",
     "classification": [
-      "视频"
+      "Air"
     ],
     "filename": "黑丝.js",
     "fileDir": "/plugins/Air/黑丝.js",
@@ -46,6 +44,28 @@
     "isMod": false,
     "isService": false,
     "id": "FRsFeoW1tLwIkqCwk2As2ifmhKQ=",
+    "isChatPlugin": true
+  },
+  "J0wq46tRZ4Mmv7Zhdy4TSsQjHcA=": {
+    "type": "github",
+    "name": "定向监听日期版",
+    "author": "Air",
+    "team": "Air",
+    "version": "1.0.0",
+    "description": "多平台监听指定个人/群消息，支持多个关键词或正则匹配，保存不重复，按日记录，启用备注",
+    "classification": [
+      "Air"
+    ],
+    "filename": "定向监听日期版.js",
+    "fileDir": "/plugins/Air/定向监听日期版.js",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": true,
+    "isMod": false,
+    "isService": false,
+    "id": "J0wq46tRZ4Mmv7Zhdy4TSsQjHcA=",
     "isChatPlugin": true
   }
 }
