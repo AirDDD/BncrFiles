@@ -7,13 +7,14 @@
 
 ```bash
 https://github.com/AirDDD/BncrFiles
+```
 
 
 ## 一键拉取
 
 ```bash
 git clone https://github.com/AirDDD/BncrFiles
-
+```
 
 使用说明
 克隆仓库或直接拉取所需文件。
