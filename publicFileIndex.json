@@ -46,7 +46,7 @@
     "id": "Pzl+PBRwKpEgAPCU6c772vz7Y40=",
     "isChatPlugin": true
   },
-  "BQo0zdoOAkC6DzMPaW/5FbrLUiQ=": {
+  "7N2ng6drBVwGHo/J/3QSySfgCjc=": {
     "type": "github",
     "name": "记账本",
     "author": "Air",
@@ -56,8 +56,8 @@
     "classification": [
       "Air"
     ],
-    "filename": "简易账本.js",
-    "fileDir": "/plugins/Air/简易账本.js",
+    "filename": "记账本.js",
+    "fileDir": "/plugins/Air/记账本.js",
     "systemVersionRange": "",
     "isAdapter": false,
     "isCron": false,
@@ -65,7 +65,7 @@
     "isEncPlugin": false,
     "isMod": false,
     "isService": false,
-    "id": "BQo0zdoOAkC6DzMPaW/5FbrLUiQ=",
+    "id": "7N2ng6drBVwGHo/J/3QSySfgCjc=",
     "isChatPlugin": true
   },
   "r+3Ku3AXYUD7e1ri/NCqWonjL/Q=": {
