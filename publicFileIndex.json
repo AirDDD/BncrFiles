@@ -24,6 +24,28 @@
     "id": "Pzl+PBRwKpEgAPCU6c772vz7Y40=",
     "isChatPlugin": true
   },
+  "r+3Ku3AXYUD7e1ri/NCqWonjL/Q=": {
+    "type": "github",
+    "name": "账号助手",
+    "author": "Air",
+    "team": "Air",
+    "version": "1.0.0",
+    "description": "账号密码管理插件，支持历史记录、按平台+分类、多用户隔离、JSON持久化",
+    "classification": [
+      "Air"
+    ],
+    "filename": "账号助手.js",
+    "fileDir": "/plugins/Air/账号助手.js",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": false,
+    "isMod": false,
+    "isService": false,
+    "id": "r+3Ku3AXYUD7e1ri/NCqWonjL/Q=",
+    "isChatPlugin": true
+  },
   "FRsFeoW1tLwIkqCwk2As2ifmhKQ=": {
     "type": "github",
     "name": "黑丝",
@@ -44,28 +66,6 @@
     "isMod": false,
     "isService": false,
     "id": "FRsFeoW1tLwIkqCwk2As2ifmhKQ=",
-    "isChatPlugin": true
-  },
-  "J0wq46tRZ4Mmv7Zhdy4TSsQjHcA=": {
-    "type": "github",
-    "name": "定向监听日期版",
-    "author": "Air",
-    "team": "Air",
-    "version": "1.0.0",
-    "description": "多平台监听指定个人/群消息，支持多个关键词或正则匹配，保存不重复，按日记录，启用备注",
-    "classification": [
-      "Air"
-    ],
-    "filename": "定向监听日期版.js",
-    "fileDir": "/plugins/Air/定向监听日期版.js",
-    "systemVersionRange": "",
-    "isAdapter": false,
-    "isCron": false,
-    "isAuthentication": false,
-    "isEncPlugin": true,
-    "isMod": false,
-    "isService": false,
-    "id": "J0wq46tRZ4Mmv7Zhdy4TSsQjHcA=",
     "isChatPlugin": true
   }
 }
