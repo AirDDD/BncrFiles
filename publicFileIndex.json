@@ -2,6 +2,28 @@
   "annotation0": "该文件由系统自动生成.",
   "annotation1": "当config.json中pluginsPublishingMode===\"git\"时且有public插件时生成",
   "annotation2": "该文件用于插件市场索引,当更新插件至git时,请将该文件同步更新至git",
+  "J0wq46tRZ4Mmv7Zhdy4TSsQjHcA=": {
+    "type": "github",
+    "name": "定向监听日期版",
+    "author": "Air",
+    "team": "Air",
+    "version": "1.0.0",
+    "description": "多平台监听指定个人/群消息，支持多个关键词或正则匹配，保存不重复，按日记录，启用备注",
+    "classification": [
+      "Air"
+    ],
+    "filename": "定向监听日期版.js",
+    "fileDir": "/plugins/Air/定向监听日期版.js",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": true,
+    "isMod": false,
+    "isService": false,
+    "id": "J0wq46tRZ4Mmv7Zhdy4TSsQjHcA=",
+    "isChatPlugin": true
+  },
   "Pzl+PBRwKpEgAPCU6c772vz7Y40=": {
     "type": "github",
     "name": "定时伪装消息",
