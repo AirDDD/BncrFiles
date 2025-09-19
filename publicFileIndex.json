@@ -46,6 +46,28 @@
     "id": "Pzl+PBRwKpEgAPCU6c772vz7Y40=",
     "isChatPlugin": true
   },
+  "BQo0zdoOAkC6DzMPaW/5FbrLUiQ=": {
+    "type": "github",
+    "name": "记账本",
+    "author": "Air",
+    "team": "Air",
+    "version": "1.0.0",
+    "description": "单用户按月记账，支持查询当日、当月、指定月份、最近7天，并统计收入/支出/余额，记录精确时间",
+    "classification": [
+      "Air"
+    ],
+    "filename": "简易账本.js",
+    "fileDir": "/plugins/Air/简易账本.js",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": false,
+    "isMod": false,
+    "isService": false,
+    "id": "BQo0zdoOAkC6DzMPaW/5FbrLUiQ=",
+    "isChatPlugin": true
+  },
   "r+3Ku3AXYUD7e1ri/NCqWonjL/Q=": {
     "type": "github",
     "name": "账号助手",
