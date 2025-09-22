@@ -6,14 +6,14 @@
 ## 拉库地址
 
 ```bash
-https://github.com/AirDDD/BncrFiles
+https://github.com/AirDDD/Bncr_plugins
 ```
 
 
 ## 一键拉取
 
 ```bash
-git clone https://github.com/AirDDD/BncrFiles
+git clone https://github.com/AirDDD/Bncr_plugins
 ```
 
 ### 使用说明  
